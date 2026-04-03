@@ -1,2 +1,2 @@
 # python
-I learned Python from the documentation (one of several ways).
+I'm learning Python from the documentation (one of several ways).
